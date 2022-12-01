@@ -1,0 +1,26 @@
+h1 {
+    color: aqua;
+    background-color: blueviolet;
+    text-align: center;
+}
+h2 {
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+h4 {
+    color:gold;
+    background-color: ;
+}
+p {
+    color: brown;
+}
+pre {
+    color:blue;
+    background-color: brown;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+pre:hover{
+    background-color: aliceblue;
+}
